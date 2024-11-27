@@ -1,6 +1,7 @@
 # Gemini Browser Agent
 
 An AI-powered web browser automation tool that uses Google's Gemini Vision model to understand and interact with web pages through natural language commands.
+This is a very raw release with many bugs. Use as a POC.
 
 ## Overview
 
